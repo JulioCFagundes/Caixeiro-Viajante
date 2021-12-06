@@ -4,5 +4,4 @@ que possa melhorar os códigos é completamente bem vinda!
 
 No arquivo "Problema_do_Caixeiro_Viajante.pdf" falamos um pouco sobre o que é o problema do caixeiro viajante e também sobre soluções.
 
-No temos arquivos "Apresentação.jl" e "Código2.jl", sendo o primeiro deles o código utilizando a malha bidimensional e distância entre pontos, a segundo utilizando geometria
-não Euclidiana, método mais condizente com a realidade. 
+No repositório temos também os arquivos "Apresentação.jl" e "Código2.jl", sendo o primeiro deles o código utilizando a malha bidimensional e distância entre pontos, e o segundo utilizando geometria não Euclidiana, método mais condizente com a realidade. 
